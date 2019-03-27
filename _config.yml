@@ -1,11 +1,11 @@
 # Site settings
 author: Santiago Sendon
-title: 
+title: journey in code
 header-img: img/home-bg.png
 email: santiagosendon92@gmail.com
 copyright_name: Santiago Sendon
 description: > # this means to ignore newlines until "baseurl:"
-  
+  journey
 baseurl: "" # the subpath of your site, e.g. /blog
 twitter_username: 
 github_username:  santiagosendon
